@@ -1,6 +1,7 @@
 # Financial Analysis of Starbucks Corporation
 ## 📈 Data Sources
 Starbucks Fiscal 2024 Results: Q4 and Full Year Report
+### https://investor.starbucks.com/news/financial-releases/news-details/2024/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2024-Results/default.aspx
 
 Industry Benchmarks: IBISWorld, Yahoo Finance
 
